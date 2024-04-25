@@ -36,7 +36,9 @@ templates: Directorio que contiene los templates HTML.
 bird_info.py: Módulo Python que realiza la llamada a la API y procesa la información de las aves.
 generate_site.py: Script principal que genera el sitio web.
 README.md: Este archivo, que proporciona información sobre el proyecto y su ejecución.
-## Nota
+
+## Nota.
+
 A pesar de que el requerimiento es sencillo, se han respetado las buenas prácticas de modularización para garantizar la mantenibilidad y escalabilidad del código.
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ¡Gracias por revisar mis proyectos! Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
