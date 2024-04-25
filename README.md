@@ -6,8 +6,8 @@ La asociación de Amantes de los pájaros de Chile ha notado que actualmente no 
 ## 1. Crear templates del HTML a utilizar
 Se han creado los siguientes templates:
 
-## base.html: Template base que define la estructura general de la página.
-## bird.html: Template que muestra la información de cada especie de pájaro.
+base.html: Template base que define la estructura general de la página.
+bird.html: Template que muestra la información de cada especie de pájaro.
 ## 2. Generar un llamado a la API que permita recopilar la información necesaria
 Se ha utilizado la API 'https://aves.ninjas.cl/api/birds' para obtener la información requerida. Se ha implementado un módulo llamado bird_info.py que realiza la llamada a la API y procesa los datos necesarios para la construcción del sitio web.
 
